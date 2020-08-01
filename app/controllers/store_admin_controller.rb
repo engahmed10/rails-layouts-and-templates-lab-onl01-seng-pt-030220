@@ -14,6 +14,3 @@ def invoice
 end
 
 end
-
-
-
